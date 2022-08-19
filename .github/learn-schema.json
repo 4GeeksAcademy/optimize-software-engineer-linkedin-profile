@@ -1,0 +1,12 @@
+[
+  { "key": "slug", "mandatory": true, "type": "slug", "max_size": 40 },
+  { "key": "title", "mandatory": true, "type": "string", "max_size": 70 },
+  { "key": "preview", "mandatory": true, "type": "url", "allowed_extensions": ["png", "jpg", "jpeg"] },
+  { "key": "status", "mandatory": true, "type": "string", "enum": ["draft", "published", "pending_translation"] },
+  { "key": "difficulty", "mandatory": true, "type": "string", "enum": ["beginner", "easy", "average", "hard", "challenging"] },
+  { "key": "translations", "mandatory": true, "type": "array", "enum": ["us", "es"] },
+  { "key": "technologies", "mandatory": true, "type": "array", "max_item_size": 30 },
+  { "key": "syntax", "mandatory": true, "type": "string", "enum": ["python", "javascript", ... ] },
+  { "key": "duration", "mandatory": true, "type": "number", "max_size": 24 },
+  { "key": "description", "mandatory": true, "type": "string", "max_size": 250 }
+]
