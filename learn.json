@@ -8,5 +8,6 @@
 	"difficulty": "beginner",
 	"syntax": "markdown",
 	"duration" : 1,
+    "projectType": "project",
 	"description" : "Optimize your LinkedIn profile as a Software Engineer to connect with people in the industry, fing jobs and networking opportunities"
 }
