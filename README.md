@@ -17,7 +17,7 @@ these keywords appear on your profile, the better positioned your profile will b
 Please read carefully the following task list and mark the checkboxes as you complete
 them:
 
-- [ ] Read the [LinkedIn page ](https://www.notion.so/4geeksacademy/About-LinkedIn-db2a04efb8f14f43a1c53e410d8d274d) of the GeekForce * **Profile picture**
+- [ ] Read the [LinkedIn page ](https://4geeksacademy.notion.site/About-LinkedIn-db2a04efb8f14f43a1c53e410d8d274d) of the GeekForce * **Profile picture**
 
 - [ ] Add a neat professional headshot, simple background
 	- [ ] Use this section as a headline, the title of the position you aspire to. If you are or are about to be a Software Developer, then put that as a title!
@@ -37,7 +37,7 @@ them:
 - [ ] List your skills (it is a great optimization opportunity!). 
 - [ ] Talk about your background, what you want to specialize in, what are your strengths, major career successes (if you happen to have one), etc.
 - [ ] Express a bit about yourself. Your character, interests, hobbies, past jobs, or countries you’ve lived in. Be real and picture the best of yourself.
-- [ ] Include a call-to-action (i.e: See my GitHub repositories at [ mygithub.com](http://mygithub.com/) .)
+- [ ] Include a call-to-action (i.e: See my GitHub repositories at http://mygithub.com/ .)
 
 ### Featured Section
 - [ ] Include a link to your Github profile 
