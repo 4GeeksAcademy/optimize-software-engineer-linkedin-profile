@@ -7,7 +7,7 @@ LinkedIn is also the most important work related social media platform out there
 having a visible profile can help you connect with the right people and help you land a
 job.
 
-Linkedin, like Google, works based on keywords! So if a company is looking for
+LinkedIn, like Google, works based on keywords! So if a company is looking for
 programmers, the first thing that they will have in mind to search for are the
 technologies. So it’s important to optimize it based of those keywords, the more times
 these keywords appear on your profile, the better positioned your profile will be.
@@ -17,11 +17,9 @@ these keywords appear on your profile, the better positioned your profile will b
 Please read carefully the following task list and mark the checkboxes as you complete
 them:
 
-- [ ] Read the [LinkedIn page ](https://4geeksacademy.notion.site/About-LinkedIn-db2a04efb8f14f43a1c53e410d8d274d) of the GeekForce * **Profile picture**
-
-- [ ] Add a neat professional headshot, simple background
-	- [ ] Use this section as a headline, the title of the position you aspire to. If you are or are about to be a Software Developer, then put that as a title!
-- [ ]  Add your skills and main programming languages in your job title
+- [ ] Read the [LinkedIn page ](https://4geeksacademy.notion.site/About-LinkedIn-db2a04efb8f14f43a1c53e410d8d274d) of the GeekForce * 
+- [ ] **Profile picture** Add a neat professional headshot, simple background
+- [ ]  Add your skills and main programming languages in your job title. Use this section as a headline, the title of the position you aspire to. If you are or are about to be a Software Developer, then put that as a title!
 
 ### Banner (header) - Personalized
 
@@ -37,7 +35,7 @@ them:
 - [ ] List your skills (it is a great optimization opportunity!). 
 - [ ] Talk about your background, what you want to specialize in, what are your strengths, major career successes (if you happen to have one), etc.
 - [ ] Express a bit about yourself. Your character, interests, hobbies, past jobs, or countries you’ve lived in. Be real and picture the best of yourself.
-- [ ] Include a call-to-action (i.e: See my GitHub repositories at http://mygithub.com/ .)
+- [ ] Include a call-to-action (i.e: See my GitHub repositories at http://mygithub.com/)
 
 ### Featured Section
 - [ ] Include a link to your Github profile 
@@ -72,11 +70,11 @@ them:
 
 ### 🔄  Recurrent task - Stay ACTIVE
 - [ ] Post about open source projects you collaborated on 
-- [ ]  Licensed or courses you finished 
+- [ ]  Licenses or courses you finished 
 - [ ]  Personal projects and technical details 
 
 ### 🔄  Recurrent task - Networking
-- [ ] It’s important you**reach more than 500 connections**! Be strategic about building your network (but not too picky either). Consider connecting with: 
+- [ ] It’s important you **reach more than 500 connections**! Be strategic about building your network (but not too picky either). Consider connecting with: 
 - [ ] Profiles with similar certifications to you
 - [ ] Experts in your area 
 - [ ] Tech bloggers 
