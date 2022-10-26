@@ -1,85 +1,83 @@
-# Optimize your Software Engineer linkedin profile
+# Optimiza tu perfil de ingeniero de software en LinkedIn
 
-Your LinkedIn profile basically represents a more complete (and interactive) resume. 
-You can include it as a link in an email or your cover letter when you apply to jobs.
+Tu perfil de LinkedIn básicamente representa un currículum más completo (e interactivo).
+Puedes incluirlo como un enlace en un correo electrónico o en tu carta de presentación cuando apliques para un trabajo. 
 
-LinkedIn is also the most important work related social media platform out there so
-having a visible profile can help you connect with the right people and help you land a
-job.
+LinkedIn es también la plataforma de redes sociales relacionadas con el trabajo más importante que existe, por lo que tener un perfil visible puede ayudarte a conectarte con las personas adecuadas y ayudarlo a conseguir un trabajo.
 
-Linkedin, like Google, works based on keywords! So if a company is looking for
-programmers, the first thing that they will have in mind to search for are the
-technologies. So it’s important to optimize it based of those keywords, the more times
-these keywords appear on your profile, the better positioned your profile will be.
+¡Linkedin, como Google, funciona en base a palabras clave! Entonces, si una empresa está buscando programadores, lo primero que tendrá en mente para buscar son las tecnologías. Por eso es importante optimizarlo en base a esas palabras clave, cuantas más veces aparezcan estas palabras clave en tu perfil, mejor posicionado estará.
 
 ## Instructions
 
-Please read carefully the following task list and mark the checkboxes as you complete
-them:
+Lee atentamente la siguiente lista de tareas y marca las casillas de verificación a medida que las completes:
 
-- [ ] Read the [LinkedIn page ](https://4geeksacademy.notion.site/About-LinkedIn-db2a04efb8f14f43a1c53e410d8d274d) of the GeekForce * **Profile picture**
+- [ ] Lee la [página de LinkedIn](https://4geeksacademy.notion.site/About-LinkedIn-db2a04efb8f14f43a1c53e410d8d274d) de GeekForce * **Foto de perfil**
+- [ ] Añade una foto de rostro profesional ordenada, un fondo sencillo
+	- [ ] Utiliza este apartado como titular, el título del puesto al que aspiras. Si eres o estás a punto de ser un desarrollador de software, ¡ponlo como título!
+- [ ] Agrega tus habilidades y principales lenguajes de programación en tu título de trabajo.
 
-- [ ] Add a neat professional headshot, simple background
-	- [ ] Use this section as a headline, the title of the position you aspire to. If you are or are about to be a Software Developer, then put that as a title!
-- [ ]  Add your skills and main programming languages in your job title.
+### Banner (encabezado) - Personalizado
 
-### Banner (header) - Personalized
+Haz una imagen que contenga lo siguiente:
 
-- [ ] Make an image that contains the following:
-- [ ] One color background 
-- [ ] Add a job title: Software Developer
-- [ ] Mention your top 3 technologies
-- [ ] Mention your top 3 soft skills 
+- [ ] Fondo de un color.
+- [ ] Agrega un título de trabajo: Desarrollador de software.
+- [ ] Menciona tus 3 tecnologías principales.
+- [ ] Menciona tus 3 mejores habilidades blandas.
 
-### Summary
+### Resumen
 
-- [ ] Introduce yourself in 3 or 4 sentences. You could use the information you have on your Resume
-- [ ] List your skills (it is a great optimization opportunity!). 
-- [ ] Talk about your background, what you want to specialize in, what are your strengths, major career successes (if you happen to have one), etc.
-- [ ] Express a bit about yourself. Your character, interests, hobbies, past jobs, or countries you’ve lived in. Be real and picture the best of yourself.
-- [ ] Include a call-to-action (i.e: See my GitHub repositories at http://mygithub.com/ .)
+- [ ] Preséntate en 3 o 4 oraciones. Podrías usar la información que tienes en tu Currículum.
+- [ ] Haz una lista de tus habilidades (¡es una gran oportunidad de optimización!).
+- [ ] Habla sobre sus antecedentes, en qué quieres especializarse, cuáles son tus puntos fuertes, los principales éxitos profesionales (si es que tiene uno), etc.
+- [ ] Expresa un poco sobre ti. Tu carácter, intereses, pasatiempos, trabajos anteriores o países en los que has vivido. Sé real e imagina lo mejor de ti mismo.
+- [ ] Incluye un llamado a la acción (es decir: ve mis repositorios de GitHub en http://mygithub.com/).
 
-### Featured Section
-- [ ] Include a link to your Github profile 
-- [ ] Go to your profile – Add profile section – Add contact info – Add Website – Paste your GitHub URL – Website Type – Portfolio
-- [ ] You can also add blogs you have written related to coding 
-- [ ] Include side projects or personal websites
+### Sección destacada
 
-### Experience
+- [ ] Incluye un enlace a tu perfil de Github.
+- [ ] Ir a tu perfil - Agregar sección de perfil - Agregar información de contacto - Agregar sitio web - Pegar su URL de GitHub - Tipo de sitio web - Portafolio.
+- [ ] También puedes agregar blogs que hayas escrito relacionados con la codificación.
+- [ ] Incluir proyectos paralelos o sitios web personales.
 
-- [ ] It’s not about the quantity but the quality of the information 
-- [ ] Use the information you mention in your Resume, the professional experience section
-- [ ] Mention your job duties in bullet point from most important to less  
+### Experiencia
 
-### Education
+- [ ] No se trata de la cantidad sino de la calidad de la información.
+- [ ] Utiliza la información que mencionas en tu CV, la sección de experiencia profesional.
+- [ ] Menciona tus deberes laborales en viñetas de más importante a menos.
 
-- [ ] If you don’t have much professional experience, this section is vital 
-- [ ] Add your formal education (high school, college degrees, etc)
-- [ ] Add any other educational experience you have 
+### Educación
 
-### Skills and Endorsement
-- [ ] Add skills related to your or area of expertise 
+- [ ] Si no tienes mucha experiencia profesional, este apartado es vital.
+- [ ] Agrega tu educación formal (escuela secundaria, títulos universitarios, etc.)
+- [ ] Agrega cualquier otra experiencia educativa que tengaa.
 
-### Recommendations
-- [ ] Having public recommendations is next level!
-- [ ]  You could  [request for a recommendation](https://www.linkedin.com/help/linkedin/answer/a546682/request-a-recommendation?lang=en)  to: 
-	- [ ] Your teacher 
-	- [ ] Alejandro or Marcelo 
-	- [ ] Your project mate 
-	- [ ]  Someone at your last job 
+### Habilidades y respaldo
 
-- [ ] Request them to include certain keywords that can speak about your abilities as a Software Developer 
+- [ ] Agrega habilidades relacionadas con tu área de especialización.
 
-### 🔄  Recurrent task - Stay ACTIVE
-- [ ] Post about open source projects you collaborated on 
-- [ ]  Licensed or courses you finished 
-- [ ]  Personal projects and technical details 
+### Recomendaciones
 
-### 🔄  Recurrent task - Networking
-- [ ] It’s important you**reach more than 500 connections**! Be strategic about building your network (but not too picky either). Consider connecting with: 
-- [ ] Profiles with similar certifications to you
-- [ ] Experts in your area 
-- [ ] Tech bloggers 
-- [ ] People who attended the same events you did 
-- [ ] People who work at companies of your interest 
+- [ ] ¡Tener recomendaciones públicas es el siguiente nivel!
+- [ ] Puedes [solicitar una recomendación](https://www.linkedin.com/help/linkedin/answer/a546682/request-a-recommendation?lang=en) a:
+	- [ ] Tu profesor.
+	- [ ] Alejandro o Marcelo.
+	- [ ] Tu compañero de proyecto.
+	- [ ] Alguien en tu último trabajo.
+- [ ] Solicita que incluyan ciertas palabras clave que puedan hablar sobre tus habilidades como desarrollador de software.
+
+### 🔄 Tarea recurrente - Mantente ACTIVO
+
+- [ ] Publicar sobre proyectos de código abierto en los que colaboraste.
+- [ ] Licenciados o cursos que terminaste.
+- [ ] Proyectos personales y detalles técnicos.
+
+### 🔄  Tarea recurrente - Redes
+
+- [ ] ¡Es importante que **llegues a más de 500 conexiones**! Se estratégico en la construcción de tu red (pero tampoco demasiado exigente). Considera conectarse con:
+	- [ ] Perfiles con certificaciones similares al la tuya.
+	- [ ] Expertos en tu área.
+	- [ ] Blogueros de tecnología.
+	- [ ] Personas que asistieron a los mismos eventos que tú.
+	- [ ] Personas que trabajan en empresas de su interés.
 
