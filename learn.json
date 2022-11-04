@@ -13,7 +13,7 @@
 	"delivery": {
 		"instructions": {
 			"us": "Please specify your linkedin profile URL. \n E.g: https://www.linkedin.com/in/alesanchezr",
-			"es": "Especifica el URL de tu perfil de linkedin. \n Ejemplo: https://www.linkedin.com/in/alesanchezr",
+			"es": "Especifica el URL de tu perfil de linkedin. \n Ejemplo: https://www.linkedin.com/in/alesanchezr"
 		},
 		"formats": ["url"]
 	}
