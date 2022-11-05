@@ -16,6 +16,6 @@
 			"es": "Especifica el URL de tu perfil de linkedin. \n Ejemplo: https://www.linkedin.com/in/alesanchezr"
 		},
 		"formats": ["url"],
-		"regex": "linkedin\\.com\/(?:[\\w\/])+"
+		"regex": "linkedin\\.com\\/(?:[\\w\\/])+"
 	}
 }
