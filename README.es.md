@@ -11,7 +11,9 @@ LinkedIn es también la plataforma de redes sociales relacionadas con el trabajo
 
 Lee atentamente la siguiente lista de tareas y marca las casillas de verificación a medida que las completes:
 
-- [ ] Lee la [página de LinkedIn](https://4geeksacademy.notion.site/About-LinkedIn-db2a04efb8f14f43a1c53e410d8d274d) de GeekForce * **Foto de perfil**
+- [ ] Lee la [página de LinkedIn](https://4geeksacademy.notion.site/LinkedIn-d3cf1c423aed49349edf14987a8c3ef9) de GeekForce. 
+
+### **Foto de perfil**
 - [ ] Añade una foto de rostro profesional ordenada, un fondo sencillo
 	- [ ] Utiliza este apartado como titular, el título del puesto al que aspiras. Si eres o estás a punto de ser un desarrollador de software, ¡ponlo como título!
 - [ ] Agrega tus habilidades y principales lenguajes de programación en tu título de trabajo.
@@ -59,7 +61,7 @@ Haz una imagen que contenga lo siguiente:
 ### Recomendaciones
 
 - [ ] ¡Tener recomendaciones públicas es el siguiente nivel!
-- [ ] Puedes [solicitar una recomendación](https://www.linkedin.com/help/linkedin/answer/a546682/request-a-recommendation?lang=en) a:
+- [ ] Puedes [solicitar una recomendación](https://www.linkedin.com/help/linkedin/answer/a546682/request-a-recommendation?lang=es) a:
 	- [ ] Tu profesor.
 	- [ ] Alejandro o Marcelo.
 	- [ ] Tu compañero de proyecto.
