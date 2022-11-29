@@ -12,7 +12,9 @@ Linkedin, like Google, works based on keywords! So if a company is looking for p
 Please read carefully the following task list and mark the checkboxes as you complete
 them:
 
-- [ ] Read the [LinkedIn page ](https://4geeksacademy.notion.site/About-LinkedIn-db2a04efb8f14f43a1c53e410d8d274d) of the GeekForce * **Profile picture**
+- [ ] Read the [LinkedIn page ](https://www.notion.so/4geeksacademy/LinkedIn-d3cf1c423aed49349edf14987a8c3ef9) of the GeekForce  
+
+### **Profile picture**
 - [ ] Add a neat professional headshot, simple background
 	- [ ] Use this section as a headline, the title of the position you aspire to. If you are or are about to be a Software Developer, then put that as a title!
 - [ ]  Add your skills and main programming languages in your job title
