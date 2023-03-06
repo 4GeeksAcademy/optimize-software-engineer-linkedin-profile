@@ -62,11 +62,7 @@ Make an image that contains the following:
 ### Recommendations
 
 - [ ] Having public recommendations is next level!
-- [ ]  You could [request for a recommendation](https://www.linkedin.com/help/linkedin/answer/a546682/request-a-recommendation?lang=en) to: 
-	- [ ] Your teacher.
-	- [ ] Alejandro or Marcelo.
-	- [ ] Your project mate.
-	- [ ] Someone at your last job.
+- [ ] You could  [request for a recommendation](https://www.linkedin.com/help/linkedin/answer/a546682/request-a-recommendation?lang=en) to: your teacher, Alejandro or Marcelo, your project mate, someone at your last job. 
 - [ ] Request them to include certain keywords that can speak about your abilities as a Software Developer.
 
 ### 🔄  Recurrent task - Stay ACTIVE
