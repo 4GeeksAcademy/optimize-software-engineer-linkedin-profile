@@ -12,9 +12,10 @@ Linkedin, like Google, works based on keywords! So if a company is looking for p
 Please read carefully the following task list and mark the checkboxes as you complete
 them:
 
-- [ ] Read the [LinkedIn page ](https://www.notion.so/4geeksacademy/LinkedIn-d3cf1c423aed49349edf14987a8c3ef9) of the GeekForce  
+- [ ] Read the [LinkedIn page ](https://4geeksacademy.notion.site/LinkedIn-d3cf1c423aed49349edf14987a8c3ef9) of the GeekForce  
 
-### **Profile picture**
+### Profile picture
+
 - [ ] Add a neat professional headshot, simple background
 	- [ ] Use this section as a headline, the title of the position you aspire to. If you are or are about to be a Software Developer, then put that as a title!
 - [ ]  Add your skills and main programming languages in your job title
@@ -62,13 +63,13 @@ Make an image that contains the following:
 ### Recommendations
 
 - [ ] Having public recommendations is next level!
-- [ ] You could  [request for a recommendation](https://www.linkedin.com/help/linkedin/answer/a546682/request-a-recommendation?lang=en) to: your teacher, Alejandro or Marcelo, your project mate, someone at your last job. 
+- [ ] You could  [request for a recommendation](https://www.linkedin.com/help/linkedin/answer/a546682/request-a-recommendation?lang=en) to: your teacher, your project mate, someone at your last job. 
 - [ ] Request them to include certain keywords that can speak about your abilities as a Software Developer.
 
 ### 🔄  Recurrent task - Stay ACTIVE
 
 - [ ] Post about open source projects you collaborated on.
-- [ ] Licensed or courses you finished.
+- [ ] Licenses or courses you finished.
 - [ ] Personal projects and technical details.
 
 ### 🔄  Recurrent task - Networking
