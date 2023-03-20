@@ -7,7 +7,7 @@ LinkedIn es también la plataforma de redes sociales relacionadas con el trabajo
 
 ¡Linkedin, como Google, funciona en base a palabras clave! Entonces, si una empresa está buscando programadores, lo primero que tendrá en mente para buscar son las tecnologías. Por eso es importante optimizarlo en base a esas palabras clave, cuantas más veces aparezcan estas palabras clave en tu perfil, mejor posicionado estará.
 
-## Instructions
+## Instruccciones
 
 Lee atentamente la siguiente lista de tareas y marca las casillas de verificación a medida que las completes:
 
@@ -15,7 +15,9 @@ Lee atentamente la siguiente lista de tareas y marca las casillas de verificaci�
 
 ### **Foto de perfil**
 - [ ] Añade una foto de rostro profesional ordenada, un fondo sencillo
-	- [ ] Utiliza este apartado como titular, el título del puesto al que aspiras. Si eres o estás a punto de ser un desarrollador de software, ¡ponlo como título!
+
+### **Título de trabajo**
+- [ ] Utiliza este apartado como titular, el título del puesto al que aspiras. Si eres o estás a punto de ser un desarrollador de software full stack, ¡ponlo como título!
 - [ ] Agrega tus habilidades y principales lenguajes de programación en tu título de trabajo.
 
 ### Banner (encabezado) - Personalizado
@@ -23,7 +25,7 @@ Lee atentamente la siguiente lista de tareas y marca las casillas de verificaci�
 Haz una imagen que contenga lo siguiente:
 
 - [ ] Fondo de un color.
-- [ ] Agrega un título de trabajo: Desarrollador de software.
+- [ ] Agrega un título de trabajo: Full Stack Software Developer.
 - [ ] Menciona tus 3 tecnologías principales.
 - [ ] Menciona tus 3 mejores habilidades blandas.
 
@@ -31,14 +33,13 @@ Haz una imagen que contenga lo siguiente:
 
 - [ ] Preséntate en 3 o 4 oraciones. Podrías usar la información que tienes en tu Currículum.
 - [ ] Haz una lista de tus habilidades (¡es una gran oportunidad de optimización!).
-- [ ] Habla sobre sus antecedentes, en qué quieres especializarse, cuáles son tus puntos fuertes, los principales éxitos profesionales (si es que tiene uno), etc.
+- [ ] Habla sobre sus antecedentes/ expreciencias, en qué quieres especializarte, cuáles son tus puntos fuertes, los principales éxitos profesionales (si es que tienes uno), etc.
 - [ ] Expresa un poco sobre ti. Tu carácter, intereses, pasatiempos, trabajos anteriores o países en los que has vivido. Sé real e imagina lo mejor de ti mismo.
 - [ ] Incluye un llamado a la acción (es decir: ve mis repositorios de GitHub en http://mygithub.com/).
 
 ### Sección destacada
 
 - [ ] Incluye un enlace a tu perfil de Github.
-- [ ] Ir a tu perfil - Agregar sección de perfil - Agregar información de contacto - Agregar sitio web - Pegar su URL de GitHub - Tipo de sitio web - Portafolio.
 - [ ] También puedes agregar blogs que hayas escrito relacionados con la codificación.
 - [ ] Incluir proyectos paralelos o sitios web personales.
 
@@ -52,7 +53,7 @@ Haz una imagen que contenga lo siguiente:
 
 - [ ] Si no tienes mucha experiencia profesional, este apartado es vital.
 - [ ] Agrega tu educación formal (escuela secundaria, títulos universitarios, etc.)
-- [ ] Agrega cualquier otra experiencia educativa que tengaa.
+- [ ] Agrega cualquier otra experiencia educativa que tengas.
 
 ### Habilidades y respaldo
 
@@ -63,7 +64,6 @@ Haz una imagen que contenga lo siguiente:
 - [ ] ¡Tener recomendaciones públicas es el siguiente nivel!
 - [ ] Puedes [solicitar una recomendación](https://www.linkedin.com/help/linkedin/answer/a546682/request-a-recommendation?lang=es) a:
 	- [ ] Tu profesor.
-	- [ ] Alejandro o Marcelo.
 	- [ ] Tu compañero de proyecto.
 	- [ ] Alguien en tu último trabajo.
 - [ ] Solicita que incluyan ciertas palabras clave que puedan hablar sobre tus habilidades como desarrollador de software.
@@ -76,10 +76,10 @@ Haz una imagen que contenga lo siguiente:
 
 ### 🔄  Tarea recurrente - Redes
 
-- [ ] ¡Es importante que **llegues a más de 500 conexiones**! Se estratégico en la construcción de tu red (pero tampoco demasiado exigente). Considera conectarse con:
+- [ ] ¡Es importante que **llegues a más de 500 conexiones**! Se estratégico en la construcción de tu red (pero tampoco demasiado exigente). Considera conectarte con:
 	- [ ] Perfiles con certificaciones similares al la tuya.
 	- [ ] Expertos en tu área.
 	- [ ] Blogueros de tecnología.
 	- [ ] Personas que asistieron a los mismos eventos que tú.
-	- [ ] Personas que trabajan en empresas de su interés.
+	- [ ] Personas que trabajan en empresas de tu interés.
 
