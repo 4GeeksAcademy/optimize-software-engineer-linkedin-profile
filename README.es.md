@@ -1,11 +1,11 @@
-# Optimiza tu perfil de ingeniero de software en LinkedIn
+# Optimiza tu perfil en LinkedIn
 
 Tu perfil de LinkedIn básicamente representa un currículum más completo (e interactivo).
 Puedes incluirlo como un enlace en un correo electrónico o en tu carta de presentación cuando apliques para un trabajo. 
 
 LinkedIn es también la plataforma de redes sociales relacionadas con el trabajo más importante que existe, por lo que tener un perfil visible puede ayudarte a conectarte con las personas adecuadas y ayudarlo a conseguir un trabajo.
 
-¡Linkedin, como Google, funciona en base a palabras clave! Entonces, si una empresa está buscando programadores, lo primero que tendrá en mente para buscar son las tecnologías. Por eso es importante optimizarlo en base a esas palabras clave, cuantas más veces aparezcan estas palabras clave en tu perfil, mejor posicionado estará.
+¡Linkedin, como Google, funciona en base a palabras clave! Entonces, si una empresa está buscando perfiles IT, lo primero que tendrá en mente para buscar son las tecnologías. Por eso es importante optimizarlo en base a esas palabras clave, cuantas más veces aparezcan estas palabras clave en tu perfil, mejor posicionado estará.
 
 ## Instruccciones
 
@@ -18,7 +18,7 @@ Lee atentamente la siguiente lista de tareas y marca las casillas de verificaci�
 - [ ] Intenta colocar siempre la misma foto en todos tus perfiles (LinkedIn, Github, etc)
 
 ### **Titular o Headline**
-- [ ] Utiliza este apartado como titular, el título del puesto al que aspiras. Si eres o estás a punto de ser un desarrollador de software full stack, ¡ponlo como título!
+- [ ] Utiliza este apartado como titular, agrega el título del puesto al que aspiras. Si eres o estás a punto de graduarte del bootcamp, ¡pon tu certificación como título!
 - [ ] Agrega tus habilidades y principales lenguajes de programación en tu título de trabajo.
 > _Desarrollador de Software Full-Stack || JavaScript || ReactJS || Python || Flask || APIs_
 
@@ -26,12 +26,14 @@ Lee atentamente la siguiente lista de tareas y marca las casillas de verificaci�
 
 > _Científico de datos || Python || SQL || Redes neuronales || Machine Learning_
 
+>_Analista de Ciberseguridad | NIST Cybersecurity Framework | ISO 27001 | MITRE ATT&CK_
+
 ### Banner (encabezado) - Personalizado
 
 Haz una imagen que contenga lo siguiente:
 
 - [ ] Fondo relacionado con tecnología.
-- [ ] Agrega un título de trabajo: Full Stack Software Developer o Data Scientist.
+- [ ] Agrega un título de trabajo: Full Stack Software Developer, Data Scientist o Analista de Ciberseguridad.
 - [ ] Menciona tus 3 tecnologías principales.
 - [ ] Puedes agegar tu información de contacto.
 ![Full Stack developer (4)](https://github.com/4GeeksAcademy/optimize-software-engineer-linkedin-profile/assets/116301809/c2e99bcc-448e-4d76-9028-71463e2aa2b1)
@@ -52,7 +54,7 @@ Haz una imagen que contenga lo siguiente:
 
 ### Sección destacada
 
-- [ ]Darle click a añadir sección -> recomendado -> añadir elemento destacado -> sigo de + -> añadir un enlace.
+- [ ]Darle click a añadir sección -> recomendado -> añadir elemento destacado -> sigo de + -> añadir un enlace. Puedes ver el paso a paso [aquí](https://scribehow.com/shared/Add_GitHub_Profile_to_LinkedIn_Featured_Section__7QEl3p6yQrONUaWWjKCPPQ?referrer=workspace).
 - [ ] Incluye un enlace a tu perfil de Github.
 - [ ] También puedes agregar blogs que hayas escrito relacionados con la codificación.
 - [ ] Incluir proyectos paralelos o sitios web personales.
@@ -83,7 +85,7 @@ Haz una imagen que contenga lo siguiente:
 	- [ ] Tu profesor.
 	- [ ] Tu compañero de proyecto.
 	- [ ] Alguien en tu último trabajo.
-- [ ] Solicita que incluyan ciertas palabras clave que puedan hablar sobre tus habilidades como desarrollador de software o Científico de datos.
+- [ ] Solicita que incluyan ciertas palabras clave que puedan hablar sobre tus habilidades como desarrollador de software, analista en ciberseguridad o Científico de datos.
 
 ### 🔄 Tarea recurrente - Mantente ACTIVO
 
